@@ -1,3 +1,4 @@
+#Day 1
 print("Sarfaraz Anwar")
 print("15/01/25")
 print("""I am signing up for Replit's
@@ -13,4 +14,4 @@ happened to be. No excuses for
 not coding from the middle of
 a field!""")
 print("I am feeling 😂")
-print("You can follow my progress at github.com/@SafAnwar.")
+print("You can follow my progress at github.com/@SafAnwar")
